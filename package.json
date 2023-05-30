@@ -1,0 +1,19 @@
+{
+  "name": "cyber-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyber Team",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.2.0",
+    "node": "^17.3.1",
+    "puppeteer": "^13.1.1"
+  }
+}
